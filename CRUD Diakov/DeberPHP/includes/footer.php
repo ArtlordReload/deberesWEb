@@ -23,8 +23,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-lg-3 col-xs-12">
-                            <p class="mb-6">Deber CRUD PHP MySQL Diakov all rights reserved</p>
-                            <p class="mb-6"></p>
+                            <p class="mb-6">Deber CRUD PHP MySQL Diakov</p>
+                            <p class="mb-6"> all rights reserved</p>
                         </div>
 
         </footer>

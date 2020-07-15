@@ -58,8 +58,8 @@ if (isset($_POST['update'])) {
 <div class=" ">
   <form class="" action="edit.php?id=<?php echo $_GET['id']; ?>" method="POST">
     <div class="card bg-transparent shadow-none">
-      <div class="card-header card-header-lg bg-danger text-white p-6 rounded-top">
-        <h4 class="font-weight-bold mb-0 text-center">Formulario Matricula</h4>
+      <div class="card-header card-header-lg bg-purple text-white p-6 rounded-top">
+        <h4 class="font-weight-bold mb-0 text-center">Modificar Datos</h4>
       </div>
       <div class="card-body border border-top-0 rounded-bottom-sm p-7">
         <div class="row">
